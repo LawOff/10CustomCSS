@@ -22,28 +22,34 @@
 
 ## All Scripts:
 
-- #### **[Discord Custom Title](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [:mega:] **[Discord Custom Title](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+ 
+- #### [🅰️] **[Channel Names Capitalized](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Channel Names Capitalized](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🏠] **[Custom Home Icon](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Custom Home Icon](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🔎] **[Minified Search Bar](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Minified Search Bar](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [📑] **[Unclamp the About Me section](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Unclamp the About Me section](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🖼️] **[Custom Background Image](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Custom Background Image](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🫓] **[Rounded Context Menu](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Rounded Context Menu](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [📚] **[Channels & Categories Color](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Channels & Categories Color](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [:page_with_curl:] **[Compact Channels & Categories](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Rainbow alternative](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🏷️] **[Colorful Role Tags](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Compact Channels & Categories](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [📟] **[Custom Text Font](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### **[Colorful Role Tags](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+## Credits:
 
-- #### **[Custom Text Font](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+Scripts found here:
+[Kiyoshi-23](https://github.com/Kiyoshi-23/BD-Custom-CSS "Kiyoshi-23") - 
+[Vendetta-Does-Stuff](https://github.com/Vendetta-Does-Stuff/Custom-BetterDiscord-CSS "Vendetta-Does-Stuff") - 
+[LuckFire](https://github.com/Discord-Theme-Addons/snippets "Vendetta-Does-Stuff") -
+
 
 **10/06/2022.**
