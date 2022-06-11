@@ -1,5 +1,4 @@
 /* Unclamp the About Me section, so it's not limited to just 6 lines. (normally it cuts off at 6 and adds a ...) */
-
 .clamped-2ZePhX{
     -webkit-line-clamp: 190; /*Maximum amount of characters as new lines, unset just breaks links*/
     max-height:112px;
@@ -16,4 +15,5 @@
 }
 .clamped-2ZePhX::-webkit-scrollbar-thumb {
   background: linear-gradient(45deg, #C62347, #830432); /* Edit this to whatever color/colors you'd like*/
- 
+  border-radius: 10px; /*How round you want the scrollbar thumb to be. 0 is square, 10px is round.*/
+}
