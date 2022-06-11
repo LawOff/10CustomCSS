@@ -1,0 +1,16 @@
+
+/* Add custom title! */
+.wordmarkWindows-2dq6rw svg {
+  width: 0px;
+}
+
+.wordmarkWindows-2dq6rw::after {
+  content: '';
+  display: inline-block;
+  -webkit-mask-image: url("https://raw.githubusercontent.com/LawOff/10CustomCSS/1ead8e178dd6eb1fe160d97726b0eb89bd8b1a81/assets/logo_law.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: cover;
+  background-color: var(--highlight);
+  width: 240px !important;
+  height: 14px !important;
+}
