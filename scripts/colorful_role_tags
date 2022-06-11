@@ -1,0 +1,20 @@
+/* Colorful Roles Tags */
+
+
+#app-mount .roleCircle-1EgnFN::after {
+  content: "";      
+  position: absolute;
+  height: 22px;
+  width: 100%;
+  left: 0px;
+  background: inherit;
+  opacity: 0.70;
+  z-index: -1;
+  border-radius:4px;
+}
+
+#app-mount .role-2TIOKu {
+  position: relative;
+  z-index: 1;
+  background: inherit;
+}
