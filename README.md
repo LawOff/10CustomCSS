@@ -16,33 +16,34 @@
 ---
 
 ## Video Tutorial:
-<table><tr><td><a href="https://www.youtube.com/watch?v=ogifU7weUjA"><img width="300px" src="THUMBNAIL_HERE"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ogifU7weUjA">VIDEO NOT AVAILABLE</a><br/>Dec 6, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=ogifU7weUjA"><img width="300px" src="https://i.imgur.com/z2JRyvh.png"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ogifU7weUjA">Top 10 Custom CSS Scripts for DISCORD (2022) </a><br/>Dec 6, 2021</td></tr></table>
 
 
 ## All Scripts:
-
-- #### [:mega:] **[Discord Custom Title](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
  
-- #### [🅰️] **[Channel Names Capitalized](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🏠] **[Custom Home Icon](https://github.com/LawOff/10CustomCSS/blob/main/scripts/custom_home_icon.css "Custom Home Icon").**
 
-- #### [🏠] **[Custom Home Icon](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [📟] **[Custom Text Font](https://github.com/LawOff/10CustomCSS/blob/main/scripts/custom_discord_font.css "Custom Text Font").**
 
-- #### [🔎] **[Minified Search Bar](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [📚] **[Channels & Categories Color](https://github.com/LawOff/10CustomCSS/blob/main/scripts/channels_categories_color.css "Channels & Categories Color").**
 
-- #### [📑] **[Unclamp the About Me section](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🔎] **[Minified Search Bar](https://github.com/LawOff/10CustomCSS/blob/main/scripts/mini_search_bar.css "Minified Search Bar").**
 
-- #### [🖼️] **[Custom Background Image](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🖼️] **[Custom Background Image](https://github.com/LawOff/10CustomCSS/blob/main/scripts/custom_background.css "Custom Background Image").**
 
-- #### [🫓] **[Rounded Context Menu](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [📑] **[Unclamp the About Me section](https://github.com/LawOff/10CustomCSS/blob/main/scripts/unclamp_about_me.css "Unclamp the About Me section").**
 
-- #### [📚] **[Channels & Categories Color](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🫓] **[Rounded Context Menu](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Rounded Context Menu).**
 
-- #### [:page_with_curl:] **[Compact Channels & Categories](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [:page_with_curl:] **[Compact Channels & Categories](https://github.com/LawOff/10CustomCSS/blob/main/scripts/channels_categories_compact.css "Compact Channels & Categories").**
 
-- #### [🏷️] **[Colorful Role Tags](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [:mega:] **[Discord Custom Title](https://github.com/LawOff/10CustomCSS/blob/main/scripts/custom_title.css "Discord Custom Title").**
 
-- #### [📟] **[Custom Text Font](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+- #### [🅰️] **[Channel Names Capitalized](https://github.com/LawOff/10CustomCSS/blob/main/scripts/channels_name_capitalized.css "Channel Names Capitalized").**
+
+- #### [🏷️] **[Colorful Role Tags](https://github.com/LawOff/10CustomCSS/blob/main/scripts/colorful_role_tags.css "Colorful Role Tags").**
+
 
 ## Credits:
 
