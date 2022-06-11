@@ -21,7 +21,7 @@
 
 
 ## All Scripts:
-- #### **[Discord Custom Title](https://github.com/777PlayZ "Discord Custom Title").**
 
+- #### **[Discord Custom Title](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
 **10/06/2022.**
