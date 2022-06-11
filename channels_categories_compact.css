@@ -1,0 +1,14 @@
+/* Compact channels catégories */
+
+:root {
+    --category-spacing: 0px;
+    --channel-spacing: 4px;
+}
+
+.containerDefault-3TQ5YN, .containerDragAfter-1J_-1V, .containerDragBefore-ei4h1m, .containerUserOver-3woq86 {
+    padding-top: var(--category-spacing);
+}
+
+.mainContent-20q_Hp {
+    padding: var(--channel-spacing);
+}
