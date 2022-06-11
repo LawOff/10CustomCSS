@@ -1,0 +1,44 @@
+/* Channel & Categories Color: */
+
+.channelName-3KPsGw{color: #f59abb !important;}
+.icon-2W8DHg,.container-q97qHp,.icon-3zI3d2{color: #C62347 !important;
+
+
+/* Rainbow alternative */
+.channelName-3KPsGw {
+    animation: chromaYeet 5s linear infinite;
+}
+.icon-2W8DHg {
+    animation: chromaYeet 6s linear infinite;
+}
+
+.container-q97qHp {
+    animation: chromaYeet 7s linear infinite;
+}
+
+.icon-3zI3d2 {
+    animation: chromaYeet 8s linear infinite;
+}
+
+
+@keyframes chromaYeet {
+    from {
+        color: #6666ff;
+    }
+
+    10% {
+        color: #0099ff;
+    }
+
+    50% {
+        color: #00ff00;
+    }
+
+    75% {
+        color: #ff3399;
+    }
+
+    100% {
+        color: #6666ff;
+    }
+}
