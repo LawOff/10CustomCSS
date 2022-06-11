@@ -1,13 +1,8 @@
 /*Add Background image to Discord*/
+
 :root {
     --background-image: url('https://i.imgur.com/rn0AlMm.jpg'); /*Change the link to your custom image*/
     --opacity: .95;
 }
 
 :root {background:var(--background-image) center/cover no-repeat;opacity:var(--opacity)}
-
-
-/* Rounded Context Menu */
-.menu-1QACrS, .colorDefault-CDqZdO { 
-    border-radius: 15px; 
-}
