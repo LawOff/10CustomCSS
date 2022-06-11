@@ -34,7 +34,7 @@
 
 - #### [📑] **[Unclamp the About Me section](https://github.com/LawOff/10CustomCSS/blob/main/scripts/unclamp_about_me.css "Unclamp the About Me section").**
 
-- #### [🫓] **[Rounded Context Menu](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Rounded Context Menu).**
+- #### [🫓] **[Rounded Context Menu](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Rounded Context Menu").**
 
 - #### [:page_with_curl:] **[Compact Channels & Categories](https://github.com/LawOff/10CustomCSS/blob/main/scripts/channels_categories_compact.css "Compact Channels & Categories").**
 
