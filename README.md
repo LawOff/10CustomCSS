@@ -24,4 +24,26 @@
 
 - #### **[Discord Custom Title](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
 
+- #### **[Channel Names Capitalized](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Custom Home Icon](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Minified Search Bar](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Unclamp the About Me section](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Custom Background Image](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Rounded Context Menu](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Channels & Categories Color](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Rainbow alternative](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Compact Channels & Categories](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Colorful Role Tags](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
+- #### **[Custom Text Font](https://raw.githubusercontent.com/LawOff/10CustomCSS/main/scripts/custom_title.css "Discord Custom Title").**
+
 **10/06/2022.**
