@@ -16,8 +16,8 @@
 ---
 
 ## Video Tutorial:
-<table><tr><td><a href="https://www.youtube.com/watch?v=ogifU7weUjA"><img width="300px" src="https://i.imgur.com/z2JRyvh.png"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ogifU7weUjA">Top 10 Custom CSS Scripts for DISCORD (2022) </a><br/>Dec 6, 2021</td></tr></table>
+<table><tr><td><a href="https://youtu.be/yUj94z1VsKc"><img width="300px" src="https://i.imgur.com/z2JRyvh.png"></a></td>
+<td><a href="https://youtu.be/yUj94z1VsKc">Top 10 Custom CSS Scripts for DISCORD (2022) </a><br/>Jun 18, 2022</td></tr></table>
 
 
 ## All Scripts:
